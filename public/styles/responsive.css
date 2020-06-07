@@ -1,0 +1,10 @@
+@media (max-width: 360px) {
+    #page-home {        
+        background: url('../assets/white-background.svg') no-repeat;
+        background-position: center;
+    }
+
+    #page-home .content header {
+        
+    }
+}
