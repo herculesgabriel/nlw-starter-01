@@ -8,7 +8,10 @@
 A ideia desse projeto foi feita pensando na Semana do Meio Ambiente. Ecoleta é um projeto que ajuda pessoas a encontrarem postos de coleta de lixo mais próximos de acordo com o tipo de lixo a ser descartado.
 
 ## Capturas de tela do projeto
-![pagina-inicial](https://user-images.githubusercontent.com/51159478/83972714-19e35880-a8b8-11ea-97dd-dc9c53ee1b97.png)
-![pesquise-pontos-de-coleta](https://user-images.githubusercontent.com/51159478/83972755-5911a980-a8b8-11ea-8566-d164a309dc99.png)
-![resultados-da-pesquisa](https://user-images.githubusercontent.com/51159478/83972757-60d14e00-a8b8-11ea-93f1-51d8bbc5603f.png)
-![cadastre-um-ponto-de-coleta](https://user-images.githubusercontent.com/51159478/83972767-6dee3d00-a8b8-11ea-8849-e979cedf4bc0.png)
+![website](https://user-images.githubusercontent.com/51159478/83973535-76954200-a8bd-11ea-95b4-63ab0abe65d0.png)
+
+## Instalação
+1. Faça um clone desse repositório
+2. Entre na pasta rodando cd nlw-starter-01
+3. [Instale o Node.js](https://nodejs.org/en/download/package-manager/)
+4. Rode npm start para iniciar o servidor
